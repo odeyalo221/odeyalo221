@@ -12,3 +12,6 @@
 
 ## 📫 Как со мной связаться
 - Email: rogockiivan1@gmail.com
+
+## Languages and tools
+> <img src="https://skillicons.dev/icons?i=js,html,css,git">
