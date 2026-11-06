@@ -14,4 +14,4 @@
 - Email: rogockiivan1@gmail.com
 
 ## Languages and tools
-> <img src="https://skillicons.dev/icons?i=js,html,css,git">
+> <img src="https://skillicons.dev/icons?i=js,html,css,git,figma,vscode">
