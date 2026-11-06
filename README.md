@@ -1,5 +1,5 @@
 <h1 align="center">Привет, я Иван</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Веб-разработчик</h3>
 
 <p align="center">
   <a href="https://discord.com/users/odeyalo221">
