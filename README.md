@@ -1,4 +1,14 @@
-# Привет, я Иван 👋
+<h1 align="center">Привет, я Иван</h1>
+<h3 align="center">Web Developer</h3>
+
+<p align="center">
+  <a href="https://discord.com/users/odeyalo221">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://max.ru/ВАША_ССЫЛКА">
+    <img src="https://img.shields.io/badge/MAX-7B3FF2?style=for-the-badge" />
+  </a>
+</p>
 
 Я студент, в настоящее время интересуюсь веб-разработкой.
 
